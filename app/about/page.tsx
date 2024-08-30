@@ -7,6 +7,7 @@ export const metadata: Metadata = {
     follow: true,
   },
 };
+
 const AboutPage = () => {
   return <div>AboutPage</div>;
 };
